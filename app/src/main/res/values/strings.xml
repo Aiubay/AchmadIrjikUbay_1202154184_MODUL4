@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ACHMADIRJIKUBAY_1202154184_MODUL4</string>
+    <string name="label_list_mahasiswa">List Mahasiswa</string>
+    <string name="label__button">Start</string>
+    <string name="btn_cari_gambar">Cari Gambar</string>
+    <string name="label_hint_cari_gmbar">Masukkan URL gambar</string>
+    <string name="label_cari_gambar">Cari gambar</string>
+
+
+</resources>
